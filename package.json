@@ -1,0 +1,31 @@
+{
+  "name": "arrow-identity",
+  "version": "1.0.0",
+  "description": "Sum plain arrays and object arrays",
+  "main": "./src/arrow-identity.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ./ --ext .js --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbarog/arrow-identity.git"
+  },
+  "keywords": [
+    "arrow",
+    "identity",
+    "simple"
+  ],
+  "author": "jbarog",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbarog/arrow-identity/issues"
+  },
+  "homepage": "https://github.com/jbarog/arrow-identity#readme",
+  "devDependencies": {
+    "eslint": "^8.4.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.3",
+    "jest": "^27.4.5"
+  }
+}
