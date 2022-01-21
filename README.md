@@ -10,7 +10,7 @@ A function that returns the same value that was used as its argument. That is, f
 
 ## Usage
 ```javascript
-const identity = require('./identity');
+const identity = require('arrow-identity');
 
 const originalName = 'John';
 

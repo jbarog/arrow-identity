@@ -1,8 +1,8 @@
 {
   "name": "arrow-identity",
-  "version": "1.0.0",
-  "description": "Sum plain arrays and object arrays",
-  "main": "./src/arrow-identity.js",
+  "version": "1.0.1",
+  "description": "A function that returns the same value that was used as its argument.",
+  "main": "./src/identity.js",
   "scripts": {
     "test": "jest",
     "lint": "eslint ./ --ext .js --fix"
